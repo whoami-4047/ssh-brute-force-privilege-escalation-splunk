@@ -74,33 +74,8 @@ This project demonstrates a complete SOC investigation in a controlled lab envir
 
 ## Screenshots
 
-### Multiple Failed SSH Login Attempts
-
-![Failed SSH Login](screenshots/01_failed_ssh_login.png)
-
-### Successful SSH Authentication
-
-![Successful Login](screenshots/02_successful_login.png)
-
-### Privilege Escalation
-
-![Privilege Escalation](screenshots/03_privilege_escalation.png)
-
-### Access to /etc/shadow
-
-![Shadow Access](screenshots/04_shadow_access.png)
-
-### Attack Timeline
-
-![Attack Timeline](screenshots/05_attack_timeline.png)
-
-### Command Statistics
-
-![Command Statistics](screenshots/06_command_statistics.png)
-
-### Detection Rule
-
-![Detection Rule](screenshots/07_detection_rule.png)
+📂 **View all investigation screenshots:**  
+[screenshots](screenshots/)
 
 ---
 
