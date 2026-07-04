@@ -67,13 +67,40 @@ This project demonstrates a complete SOC investigation in a controlled lab envir
 
 ## Report
 
-The complete incident report is available in the `report` folder.
+📄 **Incident Report:**  
+[SSH Brute Force & Privilege Escalation Investigation Report](report/Incident_Report_SSH_Brute_Force_and_Privilege_Escalation.pdf)
 
 ---
 
 ## Screenshots
 
-Project screenshots are available in the `screenshots` folder.
+### Multiple Failed SSH Login Attempts
+
+![Failed SSH Login](screenshots/01_failed_ssh_login.png)
+
+### Successful SSH Authentication
+
+![Successful Login](screenshots/02_successful_login.png)
+
+### Privilege Escalation
+
+![Privilege Escalation](screenshots/03_privilege_escalation.png)
+
+### Access to /etc/shadow
+
+![Shadow Access](screenshots/04_shadow_access.png)
+
+### Attack Timeline
+
+![Attack Timeline](screenshots/05_attack_timeline.png)
+
+### Command Statistics
+
+![Command Statistics](screenshots/06_command_statistics.png)
+
+### Detection Rule
+
+![Detection Rule](screenshots/07_detection_rule.png)
 
 ---
 
